@@ -1,3 +1,7 @@
-# animate
+## Envato Tuts+ Tutorial: Animations to Take Your Basic HTML Template to the Next Level
+### Instructor: [Karen Pogosyan](https://tutsplus.com/authors/karen-pogosyan)
 
-Simple animation framework, created by <a href="https://enovathemes.com">enovathemes</a> for tutsplus.com. <a href="https://enovathemes.com/animate"><a href="https://enovathemes.com/animate">Demo here</a>
+In this article I will share with you some practical animation examples and techniques to make your basic HTML web page shine like a star.
+
+[View the demo](http://tutsplus.github.io/animate/index.html)
+
